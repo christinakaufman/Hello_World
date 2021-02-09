@@ -12,9 +12,20 @@ Hello World-*Read Me*
 
 
 **Project Description**
-- [x] Practice with Github
+- [x] Introduce myself
+- [X] Practice with Github
 - [x] Learn how to write a Repository
 - [x] Learn how to edit a Repository
 
 
-**Project Description**
+**How to Run A Program**
+
+
+
+**Files Used**
+
+
+**Additional Documentation**
+
+
+**Versioning**
