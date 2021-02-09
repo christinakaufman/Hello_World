@@ -1,6 +1,6 @@
 	Hello World!
 
-###Hi everyone!
+### Hi everyone!
 
 My name is Christina and I enjoy swimming and yoga. 
 I currently swim for iowa and am becoming a certified yoga instructor!
