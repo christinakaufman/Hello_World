@@ -1,4 +1,4 @@
-	### Hello World {#custom-id}
+	### Hello World
 
 Hi everyone!
 
