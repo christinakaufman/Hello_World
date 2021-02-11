@@ -2,9 +2,9 @@
 
 ### Hi everyone!
 
-#My name is Christina and I enjoy swimming and yoga. 
-I currently swim for iowa and am becoming a certified yoga instructor!
-I also love to bake and enjoy anything that has chocolate in it. 
+# My name is Christina and I enjoy swimming and yoga. 
+# I currently swim for iowa and am becoming a certified yoga instructor!
+# I also love to bake and enjoy anything that has chocolate in it. 
 
 **Project Title**
 _____
@@ -32,7 +32,8 @@ _____
 The URLs are linked below.*
 
 [GitHub Docs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-[Markdown Guide] (https://www.markdownguide.org/cheat-sheet/)
+
+[Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 
 **Additional Documentation**
